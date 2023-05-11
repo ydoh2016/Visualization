@@ -163,3 +163,4 @@ cython_debug/
 # Data too big to upload, Please look at our notion
 DATA/*.*
 API_DOCS/*.*
+!DATA/*.md
